@@ -14,4 +14,6 @@ or be used from the command-line:
     javaw -jar Toolkit.jar or java -jar Toolkit.jar
 ```
 
+## clone
 
+You can clone this project to see the complete Javadoc by open 'toolkit.htm' with browser.
