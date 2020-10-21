@@ -1,4 +1,4 @@
-# Grammer-Toolkit
+# Grammar-Toolkit
 The toolkit, implemented in Java, supports sentence generation with coverage criteria, sentence enumeration and sentence analysis for context-free grammars.
 
 ## Usage
@@ -14,7 +14,7 @@ or be used from the command-line:
     javaw -jar Toolkit.jar or java -jar Toolkit.jar
 ```
 ## Where i can get the jar？
-https://github.com/iscas-tools/Garmmer-Toolkit/releases/download/1.0.0/Toolkit.jar 
+https://github.com/iscas-tools/Grammar-Toolkit/releases/download/1.0.0/Toolkit.jar 
 
 or our web
 
